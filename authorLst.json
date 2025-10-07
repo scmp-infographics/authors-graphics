@@ -1,0 +1,251 @@
+{
+  "artists": {
+    "AA": {
+      "name": "Adolfo Arranz",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/aa.jpg",
+      "position": "Deputy Creative Director",
+      "social": "twitter",
+      "link": "https://twitter.com/adolfux",
+      "author": "https://www.scmp.com/author/adolfo-arranz"
+    },
+    "AL": {
+      "name": "Andrew London",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/al.jpg",
+      "position": "International Editor",
+      "social": false,
+      "link": false,
+      "author": "https://www.scmp.com/author/andrew-london"
+    },
+    "BW": {
+      "name": "Brian Wang",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/bw.png",
+      "position": "Infographic Designer",
+      "social": "twitter",
+      "link": "https://twitter.com/SCMPgraphics",
+      "author": "https://www.scmp.com/author/brian-wang"
+    },
+    "CA": {
+      "name": "Carlos Araujo",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/carlos.jpg",
+      "position": "Designer, Graphics",
+      "social": false,
+      "link": false,
+      "author": "https://www.scmp.com/author/carlos-araujo"
+    },
+    "CM": {
+      "name": "Catherine Ma",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/cm.avif",
+      "position": "Infographic Designer",
+      "social": false,
+      "link": false,
+      "author": "https://www.scmp.com/author/catherine-ma"
+    },
+    "DB": {
+      "name": "Dan Bland",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/db.jpg",
+      "position": "Graphics Coordinator",
+      "social": "twitter",
+      "link": "https://twitter.com/dansonofdirm",
+      "author": "https://www.scmp.com/author/dan-bland"
+    },
+    "DC": {
+      "name": "Davies Christian Surya",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/dc.jpg",
+      "position": "Infographic Designer",
+      "social": "twitter",
+      "link": "https://twitter.com/dapihes",
+      "author": "https://www.scmp.com/author/davies-christian-surya"
+    },
+    "DL": {
+      "name": "Darren Long",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/dl.jpg",
+      "position": "Creative Director",
+      "social": "twitter",
+      "link": "https://twitter.com/darrenlonghk",
+      "author": "https://www.scmp.com/author/darren-long"
+    },
+    "DW": {
+      "name": "Dennis Wong",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/dw.jpg",
+      "position": "Infographic Designer",
+      "social": "twitter",
+      "link": "https://twitter.com/denniswcf614",
+      "author": "https://www.scmp.com/author/dennis-wong"
+    },
+    "DY": {
+      "name": "Dennis Yip",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/dy.jpg",
+      "position": "Infographic Designer",
+      "social": false,
+      "link": false
+    },
+    "EB": {
+      "name": "Eduardo Baptista",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/eb.jpg",
+      "position": "Reporter",
+      "social": "twitter",
+      "link": "https://twitter.com/ParkSuAm1996",
+      "author": "https://www.scmp.com/author/eduardo-baptista"
+    },
+    "ET": {
+      "name": "Eunice Tse",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/ets.jpg",
+      "position": "Intern, Graphics",
+      "social": false,
+      "link": false,
+      "author": "https://www.scmp.com/author/eunice-tse"
+    },
+    "GC": {
+      "name": "Gigi Choy",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/gc.png",
+      "position": "Reporter",
+      "social": "twitter",
+      "link": "https://twitter.com/gigi_choy",
+      "author": "https://www.scmp.com/author/gigi-choy"
+    },
+    "HH": {
+      "name": "Han Huang",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/hh.jpg",
+      "position": "Infographic Designer",
+      "social": "twitter",
+      "link": "https://twitter.com/Han_Miami",
+      "author": "https://www.scmp.com/author/han-huang"
+    },
+    "HW": {
+      "name": "Henry Wong",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/hw.jpg",
+      "position": "Chief Illustrator",
+      "social": false,
+      "link": false,
+      "author": "https://www.scmp.com/author/henry-wong"
+    },
+    "JL": {
+      "name": "Jeffie Lam",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/jl.jpg",
+      "position": "Senior Reporter",
+      "social": "twitter",
+      "link": "https://twitter.com/jeffielam",
+      "author": "https://www.scmp.com/author/jeffie-lam"
+    },
+    "Joe": {
+      "name": "Joe Lo",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/joe.jpg",
+      "position": "Designer",
+      "social": "twitter",
+      "link": "https://twitter.com/joenowhere",
+      "author": "https://www.scmp.com/author/joe-lo"
+    },
+    "JT": {
+      "name": "Yan Jing Tian",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/jt.jpg",
+      "position": "Infographic Designer",
+      "social": "twitter",
+      "link": "https://twitter.com/yanjingtian97",
+      "author": "https://www.scmp.com/author/yan-jing-tian"
+    },
+    "KKL": {
+      "name": "KaKuen Lau",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/kkl.jpg",
+      "position": "Infographic Designer",
+      "social": false,
+      "link": false,
+      "author": "https://www.scmp.com/author/lau-ka-kuen"
+    },
+    "KL": {
+      "name": "Kaliz Lee",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/kl.jpg",
+      "position": "Infographic Designer",
+      "social": "twitter",
+      "link": "https://twitter.com/kalizlee",
+      "author": "https://www.scmp.com/author/kaliz-lee"
+    },
+    "LK": {
+      "name": "Lam Ka-sing",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/alfred.jpg",
+      "position": "Senior Reporter, Business",
+      "social": false,
+      "link": false,
+      "author": "https://www.scmp.com/author/lam-ka-sing"
+    },
+    "LWB": {
+      "name": "Laura Westbrook",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/lwb.jpg",
+      "position": "Senior Reporter",
+      "social": "twitter",
+      "link": "https://twitter.com/LauraWestbrook",
+      "author": "https://www.scmp.com/author/laura-westbrook"
+    },
+    "MD": {
+      "name": "Marcelo Duhalde",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/md.jpg",
+      "position": "Associate Creative Director",
+      "social": "twitter",
+      "link": "https://twitter.com/mduhalde96",
+      "author": "https://www.scmp.com/author/marcelo-duhalde"
+    },
+    "NW": {
+      "name": "Natalie Wong",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/nw.jpg",
+      "position": "Political journalist",
+      "social": "twitter",
+      "link": "https://twitter.com/NatalieWong601",
+      "author": "https://www.scmp.com/author/natalie-wong"
+    },
+    "PR": {
+      "name": "Pablo Robles",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/pr.jpg",
+      "position": "Infographic Designer",
+      "social": "twitter",
+      "link": "https://twitter.com/pabloroblesg",
+      "author": "https://www.scmp.com/author/pablo-robles"
+    },
+    "PT": {
+      "name": "Perry Tse",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/pt.jpg",
+      "position": "Infographic Designer",
+      "social": false,
+      "link": false,
+      "author": "https://www.scmp.com/author/perry-tse"
+    },
+    "RM": {
+      "name": "Rocio Marquez",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/rm.jpg",
+      "position": "Infographic Designer",
+      "social": "twitter",
+      "link": "https://twitter.com/arixha",
+      "author": "https://www.scmp.com/author/rocio-marquez"
+    },
+    "SJ": {
+      "name": "Siqi Ji",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/sj.jpg",
+      "position": "Reporter",
+      "social": "twitter",
+      "link": "https://twitter.com/siqi_ji",
+      "author": "https://www.scmp.com/author/ji-siqi"
+    },
+    "VS": {
+      "name": "Victor Sanjinez",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/vs.jpg",
+      "position": "Infographic Designer",
+      "social": "twitter",
+      "link": "https://twitter.com/victor_gar31030",
+      "author": "https://www.scmp.com/author/victor-sanjinez"
+    },
+    "WZ": {
+      "name": "William Zheng",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/wz.jpg",
+      "position": "Senior Correspondent",
+      "social": "twitter",
+      "link": "https://twitter.com/zhengwei75",
+      "author": "https://www.scmp.com/author/william-zheng"
+    },
+    "YI": {
+      "name": "Yaser Ibrahim",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/yi.jpg",
+      "position": "Software Engineer",
+      "social": "twitter",
+      "link": "https://twitter.com/curlycoffee510",
+      "author": "https://www.scmp.com/author/yaser-ibrahim"
+    }
+  }
+}
