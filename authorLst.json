@@ -175,6 +175,14 @@
       "link": "https://twitter.com/LauraWestbrook",
       "author": "https://www.scmp.com/author/laura-westbrook"
     },
+    "MC": {
+      "name": "Matthew Cheng",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/mc.jpg",
+      "position": "Reporter, City",
+      "social": false,
+      "link": false,
+      "author": "https://www.scmp.com/author/matthew-cheng"
+    },
     "MD": {
       "name": "Marcelo Duhalde",
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/md.jpg",
