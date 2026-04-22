@@ -269,6 +269,15 @@
       "social": "twitter",
       "link": "https://twitter.com/curlycoffee510",
       "author": "https://www.scmp.com/author/yaser-ibrahim"
+    },
+    "YY": {
+      "name": "Yuanyue Dang",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/yy.webp",
+      "position": "Reporter",
+      "social": false,
+      "link": false,
+      "author": "https://www.scmp.com/author/yuanyue-dang"
     }
+
   }
 }
