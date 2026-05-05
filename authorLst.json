@@ -159,6 +159,14 @@
       "link": "https://twitter.com/kalizlee",
       "author": "https://www.scmp.com/author/kaliz-lee"
     },
+    "LC": {
+      "name": "Leopold Chen",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/lc.jpg",
+      "position": "Reporter, Hong Kong",
+      "social": false,
+      "link": false,
+      "author": "https://www.scmp.com/author/leopold-chen"
+    },
     "LK": {
       "name": "Lam Ka-sing",
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/alfred.jpg",
