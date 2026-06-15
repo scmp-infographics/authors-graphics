@@ -5,7 +5,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/aa.jpg",
       "position": "Deputy Creative Director",
       "social": "twitter",
-      "link": "https://twitter.com/adolfux",
+      "link": "https://x.com/adolfux",
       "author": "https://www.scmp.com/author/adolfo-arranz"
     },
     "AL": {
@@ -21,7 +21,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/bw.png",
       "position": "Infographic Designer",
       "social": "twitter",
-      "link": "https://twitter.com/SCMPgraphics",
+      "link": "https://x.com/SCMPgraphics",
       "author": "https://www.scmp.com/author/brian-wang"
     },
     "CA": {
@@ -45,7 +45,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/db.jpg",
       "position": "Graphics Coordinator",
       "social": "twitter",
-      "link": "https://twitter.com/dansonofdirm",
+      "link": "https://x.com/dansonofdirm",
       "author": "https://www.scmp.com/author/dan-bland"
     },
     "DC": {
@@ -53,7 +53,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/dc.jpg",
       "position": "Infographic Designer",
       "social": "twitter",
-      "link": "https://twitter.com/dapihes",
+      "link": "https://x.com/dapihes",
       "author": "https://www.scmp.com/author/davies-christian-surya"
     },
     "DL": {
@@ -61,7 +61,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/dl.jpg",
       "position": "Creative Director",
       "social": "twitter",
-      "link": "https://twitter.com/darrenlonghk",
+      "link": "https://x.com/darrenlonghk",
       "author": "https://www.scmp.com/author/darren-long"
     },
     "DW": {
@@ -69,7 +69,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/dw.jpg",
       "position": "Infographic Designer",
       "social": "twitter",
-      "link": "https://twitter.com/denniswcf614",
+      "link": "https://x.com/denniswcf614",
       "author": "https://www.scmp.com/author/dennis-wong"
     },
     "DY": {
@@ -84,7 +84,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/eb.jpg",
       "position": "Reporter",
       "social": "twitter",
-      "link": "https://twitter.com/ParkSuAm1996",
+      "link": "https://x.com/ParkSuAm1996",
       "author": "https://www.scmp.com/author/eduardo-baptista"
     },
     "ET": {
@@ -100,7 +100,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/gc.png",
       "position": "Reporter",
       "social": "twitter",
-      "link": "https://twitter.com/gigi_choy",
+      "link": "https://x.com/gigi_choy",
       "author": "https://www.scmp.com/author/gigi-choy"
     },
     "HH": {
@@ -108,7 +108,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/hh.jpg",
       "position": "Infographic Designer",
       "social": "twitter",
-      "link": "https://twitter.com/Han_Miami",
+      "link": "https://x.com/Han_Miami",
       "author": "https://www.scmp.com/author/han-huang"
     },
     "HW": {
@@ -124,15 +124,23 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/jl.jpg",
       "position": "News Editor",
       "social": "twitter",
-      "link": "https://twitter.com/jeffielam",
+      "link": "https://x.com/jeffielam",
       "author": "https://www.scmp.com/author/jeffie-lam"
+    },
+    "JM": {
+      "name": "Jun Mai",
+      "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/jm.jpg",
+      "position": "News Editor, China",
+      "social": "twitter",
+      "link": "https://x.com/JunMai_Beijing",
+      "author": "https://www.scmp.com/author/jun-mai"
     },
     "Joe": {
       "name": "Joe Lo",
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/joe.jpg",
       "position": "Designer",
       "social": "twitter",
-      "link": "https://twitter.com/joenowhere",
+      "link": "https://x.com/joenowhere",
       "author": "https://www.scmp.com/author/joe-lo"
     },
     "JT": {
@@ -140,7 +148,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/jt.jpg",
       "position": "Infographic Designer",
       "social": "twitter",
-      "link": "https://twitter.com/yanjingtian97",
+      "link": "https://x.com/yanjingtian97",
       "author": "https://www.scmp.com/author/yan-jing-tian"
     },
     "KKL": {
@@ -156,7 +164,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/kl.jpg",
       "position": "Assistant Graphics Editor",
       "social": "twitter",
-      "link": "https://twitter.com/kalizlee",
+      "link": "https://x.com/kalizlee",
       "author": "https://www.scmp.com/author/kaliz-lee"
     },
     "LC": {
@@ -180,7 +188,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/lwb.jpg",
       "position": "Senior Reporter",
       "social": "twitter",
-      "link": "https://twitter.com/LauraWestbrook",
+      "link": "https://x.com/LauraWestbrook",
       "author": "https://www.scmp.com/author/laura-westbrook"
     },
     "MC": {
@@ -204,7 +212,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/md.jpg",
       "position": "Associate Creative Director",
       "social": "twitter",
-      "link": "https://twitter.com/mduhalde96",
+      "link": "https://x.com/mduhalde96",
       "author": "https://www.scmp.com/author/marcelo-duhalde"
     },
     "NW": {
@@ -212,7 +220,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/nw.jpg",
       "position": "Political journalist",
       "social": "twitter",
-      "link": "https://twitter.com/NatalieWong601",
+      "link": "https://x.com/NatalieWong601",
       "author": "https://www.scmp.com/author/natalie-wong"
     },
     "PR": {
@@ -220,7 +228,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/pr.jpg",
       "position": "Infographic Designer",
       "social": "twitter",
-      "link": "https://twitter.com/pabloroblesg",
+      "link": "https://x.com/pabloroblesg",
       "author": "https://www.scmp.com/author/pablo-robles"
     },
     "PT": {
@@ -236,7 +244,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/rm.jpg",
       "position": "Infographic Designer",
       "social": "twitter",
-      "link": "https://twitter.com/arixha",
+      "link": "https://x.com/arixha",
       "author": "https://www.scmp.com/author/rocio-marquez"
     },
     "SG": {
@@ -251,7 +259,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/sj.jpg",
       "position": "Reporter",
       "social": "twitter",
-      "link": "https://twitter.com/siqi_ji",
+      "link": "https://x.com/siqi_ji",
       "author": "https://www.scmp.com/author/ji-siqi"
     },
     "VS": {
@@ -259,7 +267,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/vs.jpg",
       "position": "Infographic Designer",
       "social": "twitter",
-      "link": "https://twitter.com/victor_gar31030",
+      "link": "https://x.com/victor_gar31030",
       "author": "https://www.scmp.com/author/victor-sanjinez"
     },
     "WZ": {
@@ -267,7 +275,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/wz.jpg",
       "position": "Senior Correspondent",
       "social": "twitter",
-      "link": "https://twitter.com/zhengwei75",
+      "link": "https://x.com/zhengwei75",
       "author": "https://www.scmp.com/author/william-zheng"
     },
     "YI": {
@@ -275,7 +283,7 @@
       "img": "https://multimedia.scmp.com/infographics/handbook/img/standalone/profiles/yi.jpg",
       "position": "Software Engineer",
       "social": "twitter",
-      "link": "https://twitter.com/curlycoffee510",
+      "link": "https://x.com/curlycoffee510",
       "author": "https://www.scmp.com/author/yaser-ibrahim"
     },
     "YY": {
@@ -286,6 +294,5 @@
       "link": false,
       "author": "https://www.scmp.com/author/yuanyue-dang"
     }
-
   }
 }
